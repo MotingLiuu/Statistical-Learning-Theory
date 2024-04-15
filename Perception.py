@@ -11,7 +11,7 @@ import random
 
 # In[10]:
 
-
+#A linear function used to generate data which is linear speratable
 def function(x):
     return 0.5*x+2
 
